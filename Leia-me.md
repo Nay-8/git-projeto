@@ -6,3 +6,5 @@ Este é o novo curso.
 1
 2
 3
+
+Testando o push!
